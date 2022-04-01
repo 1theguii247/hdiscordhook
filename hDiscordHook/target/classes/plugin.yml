@@ -1,0 +1,9 @@
+name: hDiscordHook
+version: 1.0
+main: io.github.h1elzz.discordhook.Main
+author: h1elzz
+
+commands:
+    discord:
+    discord associar:
+    discord desassociar:
