@@ -1,6 +1,6 @@
 # hDiscordHook 2.0
 
-Este plugin é uma edição do discord-hook feito por flexxkts.
+Este plugin é uma edição do discord-hook feito por flexxkts.\n
 Depende em suas livrarias do DiscordSRV / kCore ou mCore (apenas nas livrarias)para que os menus funcionem.
 Author: h1elzz
 Versão: 2.0
